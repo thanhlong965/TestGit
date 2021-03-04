@@ -1,0 +1,11 @@
+D:\Tem's Code\code c#\Vs2019\DelegateDemo\Delegatedemo\Delegatedemo\bin\Debug\Delegatedemo.exe.config
+D:\Tem's Code\code c#\Vs2019\DelegateDemo\Delegatedemo\Delegatedemo\bin\Debug\Delegatedemo.exe
+D:\Tem's Code\code c#\Vs2019\DelegateDemo\Delegatedemo\Delegatedemo\bin\Debug\Delegatedemo.pdb
+D:\Tem's Code\code c#\Vs2019\DelegateDemo\Delegatedemo\Delegatedemo\obj\Debug\Delegatedemo.csprojAssemblyReference.cache
+D:\Tem's Code\code c#\Vs2019\DelegateDemo\Delegatedemo\Delegatedemo\obj\Debug\Delegatedemo.Form2.resources
+D:\Tem's Code\code c#\Vs2019\DelegateDemo\Delegatedemo\Delegatedemo\obj\Debug\Delegatedemo.Properties.Resources.resources
+D:\Tem's Code\code c#\Vs2019\DelegateDemo\Delegatedemo\Delegatedemo\obj\Debug\Delegatedemo.csproj.GenerateResource.cache
+D:\Tem's Code\code c#\Vs2019\DelegateDemo\Delegatedemo\Delegatedemo\obj\Debug\Delegatedemo.csproj.CoreCompileInputs.cache
+D:\Tem's Code\code c#\Vs2019\DelegateDemo\Delegatedemo\Delegatedemo\obj\Debug\Delegatedemo.exe
+D:\Tem's Code\code c#\Vs2019\DelegateDemo\Delegatedemo\Delegatedemo\obj\Debug\Delegatedemo.pdb
+D:\Tem's Code\code c#\Vs2019\DelegateDemo\Delegatedemo\Delegatedemo\obj\Debug\Delegatedemo.Form1.resources
